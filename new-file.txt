@@ -1,0 +1,5 @@
+Hello this is new file. I am uploading it to git repo, 
+Flow should be like from local to stage to repo(origin)
+
+
+-------------------------------------------------------!
