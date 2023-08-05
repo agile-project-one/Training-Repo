@@ -1,0 +1,18 @@
+List of microservices we are developing.
+-user service
+-product service
+-review service
+-cart service
+-wishlist service
+-checkout service
+
+
+Tech Stacks
+-Spring boot
+-Larvel
+-Mysql
+-Aws Services
+-java
+-git
+-Jira
+-Confluence/wiki
